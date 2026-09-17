@@ -12,7 +12,7 @@ Passionate about software, innovation, and turning ideas into reality.
 
 <a href="https://evascasino.com/"><img src="https://img.shields.io/badge/EVAS_CASINO-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="EvaS Casino" /></a>
 <a href="mailto:tech@evascasino.com"><img src="https://img.shields.io/badge/LET'S_TALK-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email tech@evascasino.com" /></a>
-<a href="https://github.com/EvaS"><img src="https://img.shields.io/badge/EVAS_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="EvaS on GitHub" /></a>
+<a href="https://github.com/evascasino"><img src="https://img.shields.io/badge/EVAS_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="EvaS on GitHub" /></a>
 
 <br /><br />
 
